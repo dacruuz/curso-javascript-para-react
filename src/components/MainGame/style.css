@@ -1,0 +1,19 @@
+.main {
+  justify-content: center;
+  align-items: center;
+  width: 320px;
+  height: 608px;
+  margin: auto;
+  padding: 30px;
+}
+
+.players-infor {
+  display: flex;
+  justify-content: space-around;
+}
+
+.cards-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
